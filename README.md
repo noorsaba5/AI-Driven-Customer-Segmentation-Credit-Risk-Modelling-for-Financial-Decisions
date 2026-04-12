@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-red)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 </p>
@@ -16,7 +16,13 @@
 ## 🌐 Live Application
 
 👉 **Try the app here:**  
-🔗 https://YOUR-APP-LINK.streamlit.app
+[🚀 Open Streamlit App](https://efcwj2qwbfnurggsfk3yym.streamlit.app/)
+
+---
+
+## 📺 App Preview
+
+![App Preview](images/app_preview.png)
 
 ---
 
@@ -33,6 +39,7 @@
 ## 🧠 Problem Statement
 
 Financial institutions need to understand:
+
 - Who their customers are  
 - Which customers are risky  
 - How much financial loss they might face  
@@ -41,7 +48,7 @@ This project answers all three using machine learning.
 
 ---
 
-## ⚙️ ML Pipeline Overview
+## ⚙️ Machine Learning Pipeline
 
 | Stage | Technique |
 |------|---------|
@@ -59,35 +66,44 @@ This project answers all three using machine learning.
 ![Customer Segmentation](outputs/figures/customer_segmentation.png)
 
 ### Model Performance
-![Confusion Matrix](outputs/figures/confusion_matrix.png)
+![Confusion Matrix](outputs/figures/confusion_matrix.png)  
 ![ROC Curve](outputs/figures/roc_curve.png)
 
 ### Financial Risk
-![Expected Loss](outputs/figures/expected_loss_distribution.png)
+![Expected Loss](outputs/figures/expected_loss_distribution.png)  
 ![Sector Risk](outputs/figures/sector_expected_loss.png)
 
 ---
 
 ## 📈 Key Results
 
-- Identified **distinct customer segments**
-- Built a model to predict **loan default risk**
-- Highlighted key drivers:
+- Identified distinct customer segments  
+- Built a model to predict loan default risk  
+- Key drivers of risk:
   - Credit score
   - Leverage
-  - Debt-to-equity ratio
-- Estimated **Expected Loss for financial planning**
+  - Debt-to-equity ratio  
+- Estimated Expected Loss for financial planning  
 
 ---
 
-## 💼 Business Impact
+## 💼 Business Value
 
 This solution helps organisations:
 
-- Reduce financial risk  
 - Improve lending decisions  
 - Identify high-risk customers early  
 - Optimise customer targeting  
+- Strengthen portfolio risk management  
+
+---
+
+## 🧪 Model Performance Summary
+
+- Strong classification performance  
+- Effective risk discrimination (ROC-AUC)  
+- Financial variables drive predictions  
+- Model suitable for real-world risk support  
 
 ---
 
@@ -109,12 +125,20 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Streamlit
 ## 📂 Project Structure
 
 ```plaintext
-data/
-images/
-outputs/figures/
-notebooks/
-app.py
-README.md
+project/
+│
+├── data/
+├── images/
+│   ├── banner.png
+│   └── app_preview.png
+│
+├── outputs/figures/
+├── notebooks/
+│   └── project.ipynb
+│
+├── app.py
+├── requirements.txt
+└── README.md
 
 🔮 Future Improvements
 SHAP explainability
