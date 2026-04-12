@@ -140,12 +140,14 @@ project/
 ├── requirements.txt
 └── README.md
 
-🔮 Future Improvements
-SHAP explainability
-Model tuning
-Real-time prediction system
-Cloud deployment
-👤 Author
+## 🔮 Future Improvements
 
-Noor Saba
-Aspiring Data Scientist
+- SHAP explainability  
+- Model tuning  
+- Real-time prediction system  
+- Cloud deployment  
+
+## 👤 Author
+
+**Noor Saba**  
+Aspiring Data Scientist | AI & Machine Learning
