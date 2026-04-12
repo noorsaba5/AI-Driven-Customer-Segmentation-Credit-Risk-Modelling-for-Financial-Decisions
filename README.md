@@ -140,6 +140,8 @@ project/
 ├── requirements.txt
 └── README.md
 
+---
+
 ## 🔮 Future Improvements
 
 - SHAP explainability  
