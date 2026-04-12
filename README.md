@@ -28,7 +28,7 @@
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
-![ML](https://img.shields.io/badge/Machine-Learning-green?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
@@ -36,11 +36,10 @@
 
 ---
 
-## 📺 App Preview
+## 🌐 Live Application
 
-<p align="center">
-  <img src="images/app_preview.png" width="85%">
-</p>
+👉 **Try the app here:**  
+[🚀 Open Streamlit App](https://efcwj2qwbfnurggsfk3yym.streamlit.app/)
 
 ---
 
@@ -103,7 +102,7 @@ This project answers all three using machine learning.
 
 ✔ Identified distinct customer segments  
 ✔ Built accurate credit risk prediction model  
-✔ Key drivers:
+✔ Key drivers of risk:
 - Credit score  
 - Leverage  
 - Debt-to-equity  
@@ -155,27 +154,31 @@ project/
 │
 ├── data/
 ├── images/
-├── outputs/figures/
+│   └── banner.png
+│
+├── outputs/
+│   └── figures/
+│
 ├── notebooks/
+│   └── project.ipynb
+│
 ├── reports/
+│   └── Final_Report.pdf
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
 
----
-
 ## 🚀 Future Improvements
 
-✨ SHAP explainability  
-⚙️ Model tuning  
-📡 Real-time prediction system  
-☁️ Cloud deployment  
+- ✨ SHAP explainability  
+- ⚙️ Model tuning  
+- 📡 Real-time prediction system  
+- ☁️ Cloud deployment  
 
 ---
 
 ## 👤 Author
 
-<p align="center">
-  <b>Noor Saba</b><br>
-  Aspiring Data Scientist | AI & Machine Learning
-</p>
+**Noor Saba**  
+Aspiring Data Scientist | AI & Machine Learning
