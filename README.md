@@ -39,21 +39,21 @@
 ## 🌐 Live Application
 
 👉 **Try the app here:**  
-[🚀 Open Streamlit App](https://efcwj2qwbfnurggsfk3yym.streamlit.app/)
+[Open Streamlit App](https://efcwj2qwbfnurggsfk3yym.streamlit.app/)
 
 ---
 
-## 🎯 Project Highlights
+## Project Highlights
 
-✨ End-to-end Machine Learning pipeline  
-📊 Customer segmentation using KMeans  
-🤖 Credit risk prediction using Random Forest  
-💰 Expected Loss modelling (PD × LGD × EAD)  
-🌐 Fully deployed interactive Streamlit application  
+End-to-end Machine Learning pipeline  
+Customer segmentation using KMeans  
+Credit risk prediction using Random Forest  
+Expected Loss modelling (PD × LGD × EAD)  
+Fully deployed interactive Streamlit application  
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Financial institutions need to answer three key questions:
 
@@ -65,7 +65,7 @@ This project answers all three using machine learning.
 
 ---
 
-## ⚙️ Machine Learning Pipeline
+## Machine Learning Pipeline
 
 | Stage | Technique |
 |------|---------|
@@ -77,20 +77,20 @@ This project answers all three using machine learning.
 
 ---
 
-## 📊 Visual Insights
+## Visual Insights
 
-### 🔵 Customer Segmentation
+### Customer Segmentation
 <p align="center">
   <img src="outputs/figures/customer_segmentation.png" width="70%">
 </p>
 
-### 🔴 Model Performance
+### Model Performance
 <p align="center">
   <img src="outputs/figures/confusion_matrix.png" width="45%">
   <img src="outputs/figures/roc_curve.png" width="45%">
 </p>
 
-### 💰 Financial Risk
+### Financial Risk
 <p align="center">
   <img src="outputs/figures/expected_loss_distribution.png" width="45%">
   <img src="outputs/figures/sector_expected_loss.png" width="45%">
@@ -98,7 +98,7 @@ This project answers all three using machine learning.
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 ✔ Identified distinct customer segments  
 ✔ Built accurate credit risk prediction model  
@@ -111,16 +111,16 @@ This project answers all three using machine learning.
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
-📉 Reduce financial risk  
-📊 Improve lending decisions  
-🎯 Better customer targeting  
-📈 Optimise portfolio performance  
+Reduce financial risk  
+Improve lending decisions  
+Better customer targeting  
+Optimise portfolio performance  
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 <p align="center">
   <a href="reports/Final_Report.pdf">
@@ -130,7 +130,7 @@ This project answers all three using machine learning.
 
 ---
 
-## ⚖️ Responsible AI
+## Responsible AI
 
 ✔ Bias awareness  
 ✔ Data privacy  
@@ -139,7 +139,7 @@ This project answers all three using machine learning.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Streamlit
@@ -147,7 +147,7 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Stre
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 project/
@@ -169,12 +169,14 @@ project/
 ├── requirements.txt
 └── README.md
 
-## 🚀 Future Improvements
 
-- ✨ SHAP explainability  
-- ⚙️ Model tuning  
-- 📡 Real-time prediction system  
-- ☁️ Cloud deployment  
+
+## Future Improvements
+
+-  SHAP explainability  
+-  Model tuning  
+-  Real-time prediction system  
+-  Cloud deployment  
 
 ---
 
